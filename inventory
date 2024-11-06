@@ -1,0 +1,16 @@
+[centos]
+#centos
+192.168.56.115 ansible_user=qcksaporna
+
+[ubuntu]
+#ubuntu
+192.168.56.114
+
+[elastic_stack]
+192.168.56.115 ansible_user=qcksaporna
+
+[monitoring]
+192.168.56.114
+
+[lamp_stack]
+192.168.56.115 ansible_user=qcksaporna
